@@ -72,8 +72,6 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 
 ## STM 32 CUBE PROGRAM :
 ```
-NAME: DEEPIKA R
-REG: 212223230038
 
 #include "main.h"
 #include <stdbool.h>
